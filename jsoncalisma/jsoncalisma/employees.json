@@ -1,0 +1,32 @@
+[
+  {
+    "firstName": "Sena",
+    "lastName": "Öztürk",
+    "Age": 18,
+    "Retired": false
+  },
+  {
+    "firstName": "Eren ",
+    "lastName": "Ertürk",
+    "Age": 23,
+    "Retired": false
+  },
+  {
+    "firstName": "Ayşe",
+    "lastName": "Bilge",
+    "Age": 20,
+    "Retired": false
+  },
+  {
+    "firstName": "Ali",
+    "lastName": "Uzun",
+    "Age": 19,
+    "Retired": false
+  },
+  {
+    "firstName": "Anıl",
+    "lastName": "Öztürk",
+    "Age": 18,
+    "Retired": false
+  }
+]
